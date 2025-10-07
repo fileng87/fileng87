@@ -11,7 +11,7 @@
 }
 ```
 <div align="center">
-  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=fileng87&show_icons=true&theme=transparent" />
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=fileng87&show_icons=true&theme=transparent" />
 
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=fileng87&show_icons=true&theme=transparent&layout=compact&langs_count=8" />
+  <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=fileng87&show_icons=true&theme=transparent&layout=compact&langs_count=8" />
 </div>
