@@ -10,15 +10,16 @@
   "link": "https://wennya.xyz",
 }
 ```
-<details>
-  <summary>💀💀💀</summary>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img width="100%" src="https://media1.tenor.com/m/IB9ol7welioAAAAC/dance-vibing.gif">
-  </a>
-</details>
 
 <div align="center">
   <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=fileng87&show_icons=true&theme=transparent&hide_border=true" />
 
   <img height="150rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=fileng87&show_icons=true&theme=transparent&hide_border=true&layout=compact&langs_count=6" />
 </div>
+
+<details>
+  <summary>💀💀💀</summary>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img align="center" width="200rem" src="https://media1.tenor.com/m/IB9ol7welioAAAAC/dance-vibing.gif">
+  </a>
+</details>
