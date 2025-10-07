@@ -1,6 +1,6 @@
 # 👋 Hello there
 
-<img height="150rem" align="right" src="https://media1.tenor.com/m/NXzOTNb7UsEAAAAd/confused-monkey-sad-monkey.gif">
+<img height="140rem" align="right" src="https://media1.tenor.com/m/NXzOTNb7UsEAAAAd/confused-monkey-sad-monkey.gif">
 
 ```json
 {
@@ -11,7 +11,7 @@
 }
 ```
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fileng87&show_icons=true&theme=transparent" />
+  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=fileng87&show_icons=true&theme=transparent" />
 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fileng87&show_icons=true&theme=transparent&layout=compact&langs_count=8" />
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=fileng87&show_icons=true&theme=transparent&layout=compact&langs_count=8" />
 </div>
