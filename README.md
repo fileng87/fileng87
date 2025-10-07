@@ -19,7 +19,7 @@
 
 <details>
   <summary>💀💀💀</summary>
-  <a align="center" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img width="200rem" src="https://media1.tenor.com/m/IB9ol7welioAAAAC/dance-vibing.gif">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img width="150rem" src="https://media1.tenor.com/m/IB9ol7welioAAAAC/dance-vibing.gif">
   </a>
 </details>
