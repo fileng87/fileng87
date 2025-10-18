@@ -5,7 +5,7 @@
 ```json
 {
   "name": "ZyraX",
-  "title": "也許程式設計，就是不斷造出輪子，再一次次將它拆毀",
+  "title": "You're absolutely right",
   "email": "oscarcoll.930714@gmail.com",
   "link": "https://wennya.xyz",
 }
