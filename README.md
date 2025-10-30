@@ -5,7 +5,7 @@
 ```json
 {
   "name": "ZyraX",
-  "title": "You're absolutely right",
+  "title": "You're absolutely right.",
   "email": "oscarcoll.930714@gmail.com",
   "link": "https://wennya.xyz",
 }
